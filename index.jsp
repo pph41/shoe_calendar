@@ -3,7 +3,6 @@
 <!DOCTYPE html>
 <html>
 <link rel = "stylesheet" href="../bulma/css/bulma.css">
-<link rel = "stylesheet" href="maincss/button.css">
 <head>
 <meta charset="UTF-8">
 <title>main</title>
